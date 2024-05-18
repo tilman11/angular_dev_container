@@ -1,0 +1,1 @@
+This should be tha basic setup of a devcontainer that is supporting Angular Development
